@@ -1,0 +1,26 @@
+{
+  "asia": {
+    "id": 4,
+    "name": "Clausiusbar"
+  },
+  "doz": {
+    "id": 6,
+    "name": "Dozentenfoyer"
+  },
+  "eth": {
+    "id": 12,
+    "name": "Polymensa"
+  },
+  "polysnack": {
+    "id": 13,
+    "name": "Polysnack"
+  },
+  "tannenbar": {
+    "id": 14,
+    "name": "Tannenbar"
+  },
+  "foodnlab": {
+    "id": 28,
+    "name": "Food & Lab"
+  }
+}
