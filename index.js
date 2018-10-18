@@ -18,7 +18,7 @@ app.post('/', function (req, res) {
 
 bindGetMenus(app);
 
-const server_port = process.env.OPENSHIFT_NODEJS_PORT || 3000
+const server_port = process.env.OPENSHIFT_NODEJS_PORT || 8080
 const server_ip_address = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1'
 
 app.listen(server_port, () => console.log('Example app listening on port 3000!'))
